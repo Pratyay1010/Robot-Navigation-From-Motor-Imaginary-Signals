@@ -1,1 +1,1 @@
-# Upper-limb-movements-can-be-decoded-from-the-time--domain-of-low-frequency-EEG
+# Robot Navigation From Motor Imaginary Signals
